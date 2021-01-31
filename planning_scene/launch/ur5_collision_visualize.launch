@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="ur5_collision_visualize" pkg="planning_scene" type="ur5_collision_visualize" respawn="false" output="screen">
+  </node>
+
+</launch>
